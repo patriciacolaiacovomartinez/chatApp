@@ -1,0 +1,14 @@
+{
+  "name": "something",
+  "version": "1.0.0",
+  "description": "Firebase Chat",
+  "private": true,
+  "scripts": {
+    "start": "reload -b --port 8025"
+  },
+  "author": "Patricia Colaiacovo",
+  "license": "ISC",
+  "dependencies": {
+    "reload": "^2.3.0"
+  }
+}
